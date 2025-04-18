@@ -30,18 +30,18 @@ Apraksts: Arenas simulācijas modelis ar 2 kases darbiniekiem, 3 pašapkalpošan
 
 2. **Pilnīga resursu pārkārtošana**  
    - 5 pavāri, 0 kases, 3 pašapkalpošanās kases  
-   - [ModelLab1(2)_BD_MM](./models/scenario1_full_relayout.ana)
+   - [ModelLab1(2)_BD_MM](https://github.com/maximalian/BD_Modelis/blob/main/ModelLab1(2)_BD_MM.doe)
 
 3. **Vienkārša pavāru skaita palielināšana**  
    - 3 pavāri, 2 kases, 3 pašapkalpošanās kases  
-   - [ModelLab1(3)_BD_MM](./models/scenario1_add_cooks.ana)
+   - [ModelLab1(3)_BD_MM](https://github.com/maximalian/BD_Modelis/blob/main/ModelLab1(3)_BD_MM.doe)
 
 ### 2. Uzdevumu sadalīšana starp pavāriem
 - Pavāru specializācija:  
-  - Pavārs A gatavo burgerus un desertus  
-  - Pavārs B gatavo dzērienus un frī kartupeļus  
+  - Pavārs 1 gatavo burgerus un desertus  
+  - Pavārs 2 gatavo dzērienus un frī kartupeļus  
 - Nodrošina vienmērīgāku slodzi un ātrāku apstrādi  
-- [models/scenario2_task_distribution.ana](./models/scenario2_task_distribution.ana)
+- [ModelLab2_BD_MM](./models/scenario2_task_distribution.ana)
 
 ### 3. Automatizācijas ieviešana virtuves procesos
 - Robotizētas grilēšanas iekārtas burgeru kotletēm (piem., Alpha Grill)  
