@@ -26,15 +26,15 @@ Apraksts: Arenas simulācijas modelis ar 2 kases darbiniekiem, 3 pašapkalpošan
 ### 1. Resursu palielināšana
 1. **Pārvietot resursus**  
    - 3 pavāri, 1 kase, 3 pašapkalpošanās kases  
-   - [models/scenario1_move_resources.ana](./models/scenario1_move_resources.ana)
+   - [ModelLab1(1)_BD_MM](https://github.com/maximalian/BD_Modelis/blob/main/ModelLab1(1)_BD_MM.doe)
 
 2. **Pilnīga resursu pārkārtošana**  
    - 5 pavāri, 0 kases, 3 pašapkalpošanās kases  
-   - [models/scenario1_full_relayout.ana](./models/scenario1_full_relayout.ana)
+   - [ModelLab1(2)_BD_MM](./models/scenario1_full_relayout.ana)
 
 3. **Vienkārša pavāru skaita palielināšana**  
    - 3 pavāri, 2 kases, 3 pašapkalpošanās kases  
-   - [models/scenario1_add_cooks.ana](./models/scenario1_add_cooks.ana)
+   - [ModelLab1(3)_BD_MM](./models/scenario1_add_cooks.ana)
 
 ### 2. Uzdevumu sadalīšana starp pavāriem
 - Pavāru specializācija:  
