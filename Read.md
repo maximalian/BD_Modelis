@@ -27,7 +27,7 @@ Apraksts: Arenas simulācijas modelis ar 2 kases darbiniekiem, 3 pašapkalpošan
 2. Uzklikšķiniet uz **“Raw file content”** → **Download** pogas.  
 3. Saglabājiet `.doe` failu savā datorā.  
 
-![Lejupielādes poga](https://raw.githubusercontent.com/maximalian/BD_Modelis/main/Lejupieladet.png)
+![Lejupielādes poga](https://github.com/maximalian/BD_Modelis/blob/main/Lejupieladet.png)
 
 ---
 
