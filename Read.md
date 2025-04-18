@@ -8,7 +8,8 @@
 
 ## Saturs
 1. [Sākotnējā modeļa apraksts](#sākotnējā-modelis)  
-2. [Uzlabojumu scenāriji](#uzlabojumu-scenāriji)  
+2. [Kā lejupielādēt modeli](#kā-lejupielādēt-modeli)  
+3. [Uzlabojumu scenāriji](#uzlabojumu-scenāriji)  
    - [1. Resursu palielināšana](#1-resursu-palielināšana)  
    - [2. Uzdevumu sadalīšana starp pavāriem](#2-uzdevumu-sadalīšana-starp-pavāriem)  
    - [3. Automatizācijas ieviešana virtuves procesos](#3-automatizācijas-ieviešana-virtuves-procesos)  
@@ -18,6 +19,15 @@
 ## Sākotnējā modelis
 Apraksts: Arenas simulācijas modelis ar 2 kases darbiniekiem, 3 pašapkalpošanās kasēm un 2 pavāriem virtuvē, klientu plūsma 15–25 ārpus pīķa stundām un 30–40 pīķa stundās.  
 **Lejupielādēt:** [ModelSak_BD_MM](https://github.com/maximalian/BD_Modelis/blob/main/ModelSak_BD_MM.doe)
+
+---
+
+## Kā lejupielādēt modeli
+1. Atveriet modeles failu GitHub lapā.  
+2. Uzklikšķiniet uz **“Raw file content”** → **Download** pogas.  
+3. Saglabājiet `.doe` failu savā datorā.  
+
+![Lejupielādes poga](https://raw.githubusercontent.com/maximalian/BD_Modelis/main/Lejupieladet.png)
 
 ---
 
