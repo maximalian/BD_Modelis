@@ -17,7 +17,7 @@
 
 ## Sākotnējā modelis
 Apraksts: Arenas simulācijas modelis ar 2 kases darbiniekiem, 3 pašapkalpošanās kasēm un 2 pavāriem virtuvē, klientu plūsma 15–25 ārpus pīķa stundām un 30–40 pīķa stundās.  
-**Lejupielādēt:** [models/initial_model.ana](./models/initial_model.ana)
+**Lejupielādēt:** [](https://github.com/maximalian/BD_Modelis/blob/main/ModelSak_BD_MM.doe)
 
 ---
 
