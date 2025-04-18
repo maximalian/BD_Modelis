@@ -1,5 +1,5 @@
 # BD_Modelis  
-**Bakalaura darbs – Klientu gaidīšanas laika samazināšana McDonald’s restorānā**
+**Bakalaura darbs – Imitācijas modelēšanas programmatūras pielietošana klientu gaidīšanas laika samazināšanai McDonald's restorānā**
 
 ## Darba autors
 - **Maksims Maļinovskis** (Maksims.Malinovskis_2@edu.rtu.lv) — [GitHub](https://github.com/maximalian)
