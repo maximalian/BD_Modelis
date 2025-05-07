@@ -37,18 +37,21 @@ Apraksts: Arenas simulācijas modelis ar 2 kases darbiniekiem, 3 pašapkalpošan
 ### 1. Resursu palielināšana
 - **Mērķis:** palielināt pavāru skaitu virtuvē vismaz līdz 4.  
 - **Faili:**  
-  - **4 pavāri**
-https://github.com/maximalian/BD_Modelis/raw/main/ModelLab1(4)_BD_MM_NEW.doe
-  - **5 pavāri**
-https://github.com/maximalian/BD_Modelis/raw/main/ModelLab1(5)_BD_MM_NEW.doe
-  - **6 pavāri**
-https://github.com/maximalian/BD_Modelis/raw/main/ModelLab1(6)_BD_MM_NEW.doe
+  - [ModelLab1(4)_BD_MM_NEW.doe](https://github.com/maximalian/BD_Modelis/raw/main/ModelLab1(4)_BD_MM_NEW.doe) (4 pavāri)
+  - [ModelLab1(5)_BD_MM_NEW.doe](https://github.com/maximalian/BD_Modelis/raw/main/ModelLab1(5)_BD_MM_NEW.doe) (5 pavāri)
+  - [ModelLab1(6)_BD_MM_NEW.doe](https://github.com/maximalian/BD_Modelis/raw/main/ModelLab1(6)_BD_MM_NEW.doe) (6 pavāri)
 
 
 ### 2. Uzdevumu sadalīšana starp pavāriem
 - **Mērķis:** pavāru specializācija un paralēls darbs ēdienu pagatavošanā.  
 - **Faili:**
+   - [ModelLab2(3)_BD_MM_NEW.doe](https://github.com/maximalian/BD_Modelis/raw/main/ModelLab2(3)_BD_MM_NEW.doe) (3 pavāri)  
+   - [ModelLab2(4)_BD_MM_NEW.doe](https://github.com/maximalian/BD_Modelis/raw/main/ModelLab2(4)_BD_MM_NEW.doe) (4 pavāri)  
 
 ### 3. Automatizācijas ieviešana virtuves procesos
 - **Mērķis:** Robotizētas grilēšanas iekārtas burgeru kotletēm (piem., Alpha Grill).  
-- **Faili:** 
+- **Faili:**
+   - [ModelLab3(3)_BD_MM_NEW.doe](https://github.com/maximalian/BD_Modelis/raw/main/ModelLab3(3)_BD_MM_NEW.doe) (3 pavāri)
+   - [ModelLab3(4)_BD_MM_NEW.doe](https://github.com/maximalian/BD_Modelis/raw/main/ModelLab3(4)_BD_MM_NEW.doe) (4 pavāri)
+   - [ModelLab3(5)_BD_MM_NEW.doe](https://github.com/maximalian/BD_Modelis/raw/main/ModelLab3(5)_BD_MM_NEW.doe) (5 pavāri)
+
