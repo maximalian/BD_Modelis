@@ -39,11 +39,11 @@ Apraksts: Arenas simulācijas modelis ar 2 kases darbiniekiem, 3 pašapkalpošan
 - **Faili:**  
 
 # 4 pavāri
-curl -LJO https://github.com/maximalian/BD_Modelis/raw/main/ModelLab1(4)_BD_MM_NEW.doe
+https://github.com/maximalian/BD_Modelis/raw/main/ModelLab1(4)_BD_MM_NEW.doe
 # 5 pavāri
-curl -LJO https://github.com/maximalian/BD_Modelis/raw/main/ModelLab1(5)_BD_MM_NEW.doe
+https://github.com/maximalian/BD_Modelis/raw/main/ModelLab1(5)_BD_MM_NEW.doe
 # 6 pavāri
-curl -LJO https://github.com/maximalian/BD_Modelis/raw/main/ModelLab1(6)_BD_MM_NEW.doe
+https://github.com/maximalian/BD_Modelis/raw/main/ModelLab1(6)_BD_MM_NEW.doe
 
 
 ### 2. Uzdevumu sadalīšana starp pavāriem
